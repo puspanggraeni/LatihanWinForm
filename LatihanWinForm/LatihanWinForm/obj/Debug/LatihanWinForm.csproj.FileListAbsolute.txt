@@ -1,0 +1,19 @@
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+E:\Kuliah\semester 3\Pemrograman Lanjut\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources

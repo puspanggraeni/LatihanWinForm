@@ -1,0 +1,9 @@
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\bin\Release\LatihanWinForm.exe.config
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\bin\Release\LatihanWinForm.exe
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\bin\Release\LatihanWinForm.pdb
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.Form1.resources
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.FrmListMahasiswa.resources
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.Properties.Resources.resources
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.csproj.GenerateResource.Cache
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.exe
+E:\Kuliah\semester 3\Pemrograman Lanjut\Tugas Latihan 3\Latihan 2\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.pdb
